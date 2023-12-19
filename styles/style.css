@@ -36,3 +36,12 @@ ul,
 ol {
   list-style: none;
 }
+
+.page{
+  display: grid;
+  grid-template-areas: 
+  ".result .content__details";
+ 
+}
+
+
