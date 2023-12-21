@@ -1,1 +1,1 @@
-git@github.com:Griga797/posmotri_v_okno.git
+https://github.com/Griga797/posmotri_v_okno.git
